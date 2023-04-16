@@ -1,0 +1,11 @@
+git status
+git add "<nomeArquivo>"
+git add . (adiciona todos os arquivos da pasta que não foram adicionados)
+git commit -m "<info do commit>" 
+git config --global user.email "rguimaraes.rs@gmail.com"
+git config --global user.name "RicaGuimaraes"
+git commit -m "<info do commit>"
+git remote add origin https://github.com/RicaGuimaraes/<nomeRepositorio> (deve ser criado no github.com)
+git push --set-upstream origin <nomeBranch>
+clear
+
